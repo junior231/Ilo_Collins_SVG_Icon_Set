@@ -1,0 +1,84 @@
+@charset "utf-8";
+/*CSS document*/
+
+.hidden
+{
+	display: none;
+}
+
+#container
+{
+	width: 960px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: 0 auto;
+}
+
+#mainHeader
+{
+	display: flex;
+	flex-direction: row;
+}
+
+
+#mainNav
+{
+	height: 45px;
+	width: 650px;
+	/*background-color: #23550B;*/
+	margin-top: 20px;
+}
+
+#mainNav ul li {
+	display: inline;
+	font-size: 30px;
+	color: #ffffff;
+}
+
+#logo
+{
+	height: 100px;
+	width: 250px;
+	background-color: #f0aeae;
+	margin-left: auto;
+}
+
+.iconContainer{
+	width: 960px;
+	margin-top: 40px;
+}
+
+#goalpost{
+	width: 200px;
+	height: 100px;
+}
+
+#soccerBoot{
+	width: 200px;
+	height: 100px
+}
+
+#soccerFans{
+	width: 200px;
+	height: 100px;
+}
+
+#whistle{
+	width: 200px;
+	height: 100px;
+}
+
+#footBall{
+	width: 200px;
+	height: 100px;
+}
+
+#linesMan{
+	width: 200px;
+	height: 100px;
+}
+
+#jersey{
+	width: 200px;
+	height: 100px;
+}
